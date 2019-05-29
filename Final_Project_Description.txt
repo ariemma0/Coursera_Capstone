@@ -1,0 +1,17 @@
+Introduction:
+
+	In the Project I will use FourSquare location data from existing
+Ice Cream Shop locations.  I will explore the neighborhoods surrounding
+each shop to determine the types of venues that support foot traffic for 
+Ice Cream Shops.  I will then create a Regression Model to evaluate 
+new locations.
+
+Business Problem:
+
+	An Ice Cream Shop wants to expand and open a new location 
+somewhere in Manhattan.  I will use FourSquare’s location data to 
+create features for Machine Learning Regression to evaluate available 
+retail space.
+  
+
+
