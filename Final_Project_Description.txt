@@ -1,17 +1,18 @@
 Introduction:
 
-	In the Project I will use FourSquare location data from existing
-Ice Cream Shop locations.  I will explore the neighborhoods surrounding
-each shop to determine the types of venues that support foot traffic for 
-Ice Cream Shops.  I will then create a Regression Model to evaluate 
-new locations.
+	This Project is the capstone to Applied Data Science on Coursera
+completing certification in Date Science from IBM.  In the project, we
+have been by contracted by XYZ ice Cream Co. to examine available retail
+locations in Manhattan and produce a report indicating the 10 best
+locations to open a new XYZ Ice Cream shop.
 
 Business Problem:
 
-	An Ice Cream Shop wants to expand and open a new location 
-somewhere in Manhattan.  I will use FourSquare’s location data to 
-create features for Machine Learning Regression to evaluate available 
-retail space.
-  
+	XYZ Ice Cream Shop wants to expand and open a new location
+somewhere in Manhattan. Finding a good location is key in the retail
+business. Choosing a poor location will waste extensive funds required
+during re-modeling and start-up of the new business.  XYZ wants to make
+sure a good location is chosen before construction begins.
+
 
 

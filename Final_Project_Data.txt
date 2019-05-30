@@ -1,14 +1,16 @@
 Data:
 
-	I will use several resources for my information.  I will start with
-FourSquare’s Seach API to find all the Ice Cream Shops in Manhattan.  I
-Will then use FourSquare’s Explore API to find all the types of venues
-that surround existing Ice Cream Shops.  I will use this data to create a 
-regression model to evaluate new locations.  I will then use a screen 
-scrapper to extract available retail space in Manhattan.   I will then 
-use FourSquare Explore API to find all the venues that surround the 
-available locations.  Lastly I will run all the available location data 
-through my Regression model to produce a report with the Locations
-that received the highest score. 
+	Several resources will be used as the data to solve XYZ’s problem.
+First, FourSquare’s Seach API will be used to find all the Ice Cream
+shops currently operating in Manhattan.  The locations of the ice cream
+shop will be used by FourSquare’s Explore API to find all the types of
+venues that surround existing Ice Cream Shops.  The surrounding venues
+data will be used as the feature attribute set to create a regression
+model to evaluate new locations.  Available retail space will be found
+by using a screen scrapper against the real estate web site showcase.com.
+For each available location we will find the surrounding venues by using
+FourSquare Explore API again. Lastly we will run all the available
+location data through my Regression model to produce a report with the
+best locations that received the highest score. 
 
 
